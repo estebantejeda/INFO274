@@ -1,14 +1,16 @@
 # INFO274
 Simulación
 
-Rama - Diego:
+Rama - Principal:
 
 # Tareas:
 
-- Ejercicio 5:
+- Taller 1 - Terminado
+- Taller 2 - Terminado
+- Taller 3 - En Desarrollo
 
 # Actividades:
 
-- Recopilando Armando DataSet
+- Revisando y desarrollando modelos.
 
 
