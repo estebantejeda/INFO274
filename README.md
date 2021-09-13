@@ -7,7 +7,8 @@ Rama - Principal:
 
 - Taller 1 - Terminado
 - Taller 2 - Terminado
-- Taller 3 - En Desarrollo
+- Taller 3 - Terminado
+- Taller 4 - En Desarrollo
 
 # Actividades:
 
