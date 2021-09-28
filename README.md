@@ -9,7 +9,8 @@ Rama - Principal:
 - Taller 2 - Terminado
 - Taller 3 - Terminado
 - Taller 4 - Terminado
-- Taller 5 - En Desarrollo
+- Taller 5 - Terminado
+- Proyecto - En Desarrollo
 
 # Actividades:
 
